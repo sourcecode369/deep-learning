@@ -1,5 +1,10 @@
 # Deep Learning Nanodegree Foundation
+
 [![watch_video](https://d2mxuefqeaa7sj.cloudfront.net/s_D16C37C27D7DCCF16E416DD259155C3A4612061618EE343DACE65282E93C5FF3_1551803331348_Screenshot+2019-03-05+at+17.28.16.png)](https://www.youtube.com/watch?v=JSulOaFMJPI)
+
+
+#### `Deep learning is driving advances in artificial intelligence that are changing our world.`
+
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation program](https://www.udacity.com/course/deep-learning-nanodegree--nd101) that was implemented by me. 
 
