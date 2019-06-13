@@ -48,7 +48,7 @@ It consists of a bunch of tutorial notebooks for various deep learning topics. I
 
 ### Projects
 
-* Your First Neural Network: Implement a neural network in Numpy to predict bike rentals.
+* [Your First Neural Network](https://github.com/sourcecode369/deep-learning/tree/master/first%20neural%20network): Implement a neural network in Numpy to predict bike rentals.
 
 * Image classification: Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 
