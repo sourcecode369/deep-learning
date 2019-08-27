@@ -16,13 +16,15 @@ It consists of a bunch of tutorial notebooks for various deep learning topics. I
 
 ### Tutorials
 
-* Sentiment Analysis with Numpy: Andrew Trask leads you through building a sentiment analysis model, predicting if some text is positive or negative.
+* [Sentiment Analysis](https://github.com/sourcecode369/deep-learning/tree/master/sentiment-network): Sentiment Analysis with Numpy: Andrew Trask leads you through building a sentiment analysis model, predicting if some text is positive or negative.
 
-* Intro to TensorFlow: Starting building neural networks with Tensorflow.
+* [Gradient Descent](https://github.com/sourcecode369/deep-learning/tree/master/gradient%20descent): The algorithm of how neural networks learn.
 
-* Weight Intialization: Explore how initializing network weights affects performance.
+* [Intro to TensorFlow](https://github.com/sourcecode369/deep-learning/tree/master/intro-to-tensorflow): Starting building neural networks with Tensorflow.
 
-* Autoencoders: Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
+* [Weight Intialization](https://github.com/sourcecode369/deep-learning/tree/master/weight-initialization): Explore how initializing network weights affects performance.
+
+* [Autoencoders](https://github.com/sourcecode369/deep-learning/tree/master/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
 
 * Transfer Learning (ConvNet). In practice, most people don't train their own large networkd on huge datasets, but use pretrained networks such as VGGnet. Here you'll use VGGnet to classify images of flowers without training a network on the images themselves.
 
